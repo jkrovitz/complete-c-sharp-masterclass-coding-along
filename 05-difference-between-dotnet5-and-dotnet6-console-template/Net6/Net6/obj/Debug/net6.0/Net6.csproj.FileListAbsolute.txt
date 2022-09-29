@@ -1,0 +1,15 @@
+C:\Users\lewan\Documents\Jeremy Coding\complete-c-sharp-masterclass-coding-along\05-difference-between-dotnet5-and-dotnet6-console-template\Net6\Net6\bin\Debug\net6.0\Net6.exe
+C:\Users\lewan\Documents\Jeremy Coding\complete-c-sharp-masterclass-coding-along\05-difference-between-dotnet5-and-dotnet6-console-template\Net6\Net6\bin\Debug\net6.0\Net6.deps.json
+C:\Users\lewan\Documents\Jeremy Coding\complete-c-sharp-masterclass-coding-along\05-difference-between-dotnet5-and-dotnet6-console-template\Net6\Net6\bin\Debug\net6.0\Net6.runtimeconfig.json
+C:\Users\lewan\Documents\Jeremy Coding\complete-c-sharp-masterclass-coding-along\05-difference-between-dotnet5-and-dotnet6-console-template\Net6\Net6\bin\Debug\net6.0\Net6.dll
+C:\Users\lewan\Documents\Jeremy Coding\complete-c-sharp-masterclass-coding-along\05-difference-between-dotnet5-and-dotnet6-console-template\Net6\Net6\bin\Debug\net6.0\Net6.pdb
+C:\Users\lewan\Documents\Jeremy Coding\complete-c-sharp-masterclass-coding-along\05-difference-between-dotnet5-and-dotnet6-console-template\Net6\Net6\obj\Debug\net6.0\Net6.csproj.AssemblyReference.cache
+C:\Users\lewan\Documents\Jeremy Coding\complete-c-sharp-masterclass-coding-along\05-difference-between-dotnet5-and-dotnet6-console-template\Net6\Net6\obj\Debug\net6.0\Net6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewan\Documents\Jeremy Coding\complete-c-sharp-masterclass-coding-along\05-difference-between-dotnet5-and-dotnet6-console-template\Net6\Net6\obj\Debug\net6.0\Net6.AssemblyInfoInputs.cache
+C:\Users\lewan\Documents\Jeremy Coding\complete-c-sharp-masterclass-coding-along\05-difference-between-dotnet5-and-dotnet6-console-template\Net6\Net6\obj\Debug\net6.0\Net6.AssemblyInfo.cs
+C:\Users\lewan\Documents\Jeremy Coding\complete-c-sharp-masterclass-coding-along\05-difference-between-dotnet5-and-dotnet6-console-template\Net6\Net6\obj\Debug\net6.0\Net6.csproj.CoreCompileInputs.cache
+C:\Users\lewan\Documents\Jeremy Coding\complete-c-sharp-masterclass-coding-along\05-difference-between-dotnet5-and-dotnet6-console-template\Net6\Net6\obj\Debug\net6.0\Net6.dll
+C:\Users\lewan\Documents\Jeremy Coding\complete-c-sharp-masterclass-coding-along\05-difference-between-dotnet5-and-dotnet6-console-template\Net6\Net6\obj\Debug\net6.0\refint\Net6.dll
+C:\Users\lewan\Documents\Jeremy Coding\complete-c-sharp-masterclass-coding-along\05-difference-between-dotnet5-and-dotnet6-console-template\Net6\Net6\obj\Debug\net6.0\Net6.pdb
+C:\Users\lewan\Documents\Jeremy Coding\complete-c-sharp-masterclass-coding-along\05-difference-between-dotnet5-and-dotnet6-console-template\Net6\Net6\obj\Debug\net6.0\Net6.genruntimeconfig.cache
+C:\Users\lewan\Documents\Jeremy Coding\complete-c-sharp-masterclass-coding-along\05-difference-between-dotnet5-and-dotnet6-console-template\Net6\Net6\obj\Debug\net6.0\ref\Net6.dll
